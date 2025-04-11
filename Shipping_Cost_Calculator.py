@@ -12,6 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by Alex
 print(f"This is a change")
-
-# Here is another update by Alex2
-
